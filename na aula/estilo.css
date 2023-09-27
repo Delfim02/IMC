@@ -1,0 +1,13 @@
+
+#corFundo_01 {
+   background-color: rgb(255, 174, 0); 
+}
+.espaco_01{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 25px;
+
+}
